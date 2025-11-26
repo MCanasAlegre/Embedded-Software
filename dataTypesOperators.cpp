@@ -27,10 +27,8 @@ int main(void){
         printf("The volume of the %s %d using radius*radius*radius is: %.2lf\n", text, i+1, volume1);
         printf("The volume of the %s %d using pow function is: %.2lf\n", text, i+1, volume2);
     }
-    
 
-
-
+    printf("Now you know how to use different data types in C++!\n");
     return 0; //Returns 0 to indicate that the program ended successfully
 
 }
