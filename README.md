@@ -75,7 +75,7 @@ If you find this useful, feel free to ⭐ **star the repo** and follow along!
 
 ---
 
-## Contributions 🤝
+## 🤝 Contributions 
 
 If you want to contribute:
 
@@ -89,9 +89,10 @@ All contributions are welcome!
 
 ---
 
-### Contact 📬
+## 📬 Contact 
 
 If you'd like to reach out:
 GitHub: @MCanasAlegre
 
 Happy coding! ✨⚙️
+
