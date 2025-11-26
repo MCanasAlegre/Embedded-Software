@@ -66,3 +66,32 @@ If you find this useful, feel free to ⭐ **star the repo** and follow along!
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+2. Navigate through the topic folders
+
+3. Compile using a standard C++ compiler
+
+4. For embedded topics, examples are adapted for boards like AVR, ARM Cortex-M, and Arduino-based systems
+
+---
+
+## Contributions 🤝
+
+If you want to contribute:
+
+🐞 Report issues
+
+🧠 Propose improvements
+
+📁 Share additional exercises or examples
+
+All contributions are welcome!
+
+---
+
+### Contact 📬
+
+If you'd like to reach out:
+GitHub: @MCanasAlegre
+
+Happy coding! ✨⚙️
