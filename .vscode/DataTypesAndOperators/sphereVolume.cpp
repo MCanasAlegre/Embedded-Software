@@ -30,5 +30,5 @@ int main(void){
 
     printf("Now you know how to use different data types in C++!\n");
     return 0; //Returns 0 to indicate that the program ended successfully
-
+    
 }
